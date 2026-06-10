@@ -8,6 +8,8 @@
 
     <ItemGroup>
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.6"/>
+        <PackageReference Include="Microsoft.Data.SqlClient" Version="7.1.0-preview1.26124.5" />
+        <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="10.2.1" />
     </ItemGroup>
 
 </Project>
